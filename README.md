@@ -2,7 +2,7 @@
 
 Visit my personal website:
 
-[mahdi-same.github.io](لینک سایت)
+mahdi-same.github.io
 <!--
 **Mahdi-Same/Mahdi-Same** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
