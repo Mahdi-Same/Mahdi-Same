@@ -2,7 +2,14 @@
 
 Visit my personal website:
 
-mahdi-same.github.io
+[mahdi-same.github.io
+](https://mahdi-same.github.io)
+
+## Resume
+
+Download my latest resume:
+
+[Resume PDF](لینک)
 <!--
 **Mahdi-Same/Mahdi-Same** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
